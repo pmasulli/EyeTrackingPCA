@@ -1,0 +1,2 @@
+# location of the data files used for the analysis
+DATA_DIR="~/EyeTrackingPCA_data"
