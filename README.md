@@ -1,12 +1,11 @@
 # Data-driven analysis of eye-tracking data
 
-
-## Companion code to the manuscript: 
+## Companion code to the article: 
 Paolo Masulli, Martyna Galazka, David Eberhard, Jakob Åsberg Johnels, Christopher Gillberg, Eva Billstedt, Nouchine Hadjikhani, Tobias S. Andersen,
+**Data-driven analysis of gaze patterns in face perception: Methodological and clinical contributions**,
+Cortex, Volume 147, 2022, Pages 9-23, ISSN 0010-9452, https://doi.org/10.1016/j.cortex.2021.11.011.
 
-"Data-driven analysis of gaze patterns in face perception: Methodological and clinical contributions"
-
-_Note: full citation will be made available later._
+The article is available as open access.
 
 ## How to use
 
@@ -15,4 +14,4 @@ _Note: full citation will be made available later._
 
 ## Citation
 
-On top of the conditions stipulated in the software license (see the `LICENSE` file), you are kindly asked to cite our manuscript if you make use of this code in any academic context.
+On top of the conditions stipulated in the software license (see the `LICENSE` file), you are kindly asked to cite our article if you make use of this code in any academic context.
